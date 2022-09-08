@@ -62,16 +62,16 @@ DOMAIN-KEYWORD,dualstack.apiproxy-,Netflix
 # GEOIP,NETFLIX,Netflix
 
 # > Spotify
-USER-AGENT,Spotify*,Spotify
-HOST-SUFFIX,pscdn.co,Spotify
-HOST-SUFFIX,scdn.co,Spotify
-HOST-SUFFIX,spoti.fi,Spotify
-HOST-SUFFIX,spotify.com,Spotify
-HOST-SUFFIX,spotifycdn.com,Spotify
-HOST-SUFFIX,spotifycdn.net,Spotify
-HOST-SUFFIX,spotifycharts.com,Spotify
-HOST-SUFFIX,spotifycodes.com,Spotify
-HOST-SUFFIX,spotifyjobs.com,Spotify
-HOST-SUFFIX,spotifynewsroom.jp,Spotify
-HOST-SUFFIX,spotilocal.com,Spotify
-HOST-SUFFIX,tospotify.com,Spotify
+USER-AGENT,Spotify*,PROXY
+HOST-SUFFIX,pscdn.co,PROXY
+HOST-SUFFIX,scdn.co,PROXY
+HOST-SUFFIX,spoti.fi,PROXY
+HOST-SUFFIX,spotify.com,PROXY
+HOST-SUFFIX,spotifycdn.com,PROXY
+HOST-SUFFIX,spotifycdn.net,PROXY
+HOST-SUFFIX,spotifycharts.com,PROXY
+HOST-SUFFIX,spotifycodes.com,PROXY
+HOST-SUFFIX,spotifyjobs.com,PROXY
+HOST-SUFFIX,spotifynewsroom.jp,PROXY
+HOST-SUFFIX,spotilocal.com,PROXY
+HOST-SUFFIX,tospotify.com,PROXY
